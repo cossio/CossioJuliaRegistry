@@ -4,3 +4,4 @@ repo = "https://github.com/cossio/MyPublicJuliaRegistry"
 description = "My public Julia registry"
 
 [packages]
+fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
