@@ -1,3 +1,3 @@
 name = "TruncatedNormal"
 uuid = "57af301a-a58c-11e9-1f68-193042cecb35"
-repo = "git@github.com:cossio/TruncatedNormal.jl.git"
+repo = "https://github.com/cossio/TruncatedNormal.jl.git"
