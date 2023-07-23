@@ -1,6 +1,6 @@
-name = "MyPublicJuliaRegistry"
+name = "CossioJuliaRegistry"
 uuid = "9ead806a-b9fe-4182-9efa-aa6064b82dfe"
-repo = "https://github.com/cossio/MyPublicJuliaRegistry"
+repo = "https://github.com/cossio/CossioJuliaRegistry"
 description = "My public Julia registry"
 
 [packages]
