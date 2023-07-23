@@ -1,6 +1,6 @@
 # MyPublicJuliaRegistry
 
-My public Julia registry. Created using https://github.com/GunnarFarneback/LocalRegistry.jl.
+My public Julia registry. Created using [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl).
 
 To install this registry, run the following command in the Julia pkg REPL (once per Julia installation):
 
