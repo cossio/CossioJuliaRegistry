@@ -5,4 +5,5 @@ description = "My public Julia registry"
 
 [packages]
 2b3394db-9f9c-454f-a26a-0ad872321417 = { name = "LatticeProteins", path = "L/LatticeProteins" }
+57af301a-a58c-11e9-1f68-193042cecb35 = { name = "TruncatedNormal", path = "T/TruncatedNormal" }
 fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
