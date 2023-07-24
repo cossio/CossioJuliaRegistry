@@ -1,0 +1,8 @@
+[0]
+DelimitedFiles = "1"
+LoggingExtras = "1"
+Optimisers = "0.2"
+RestrictedBoltzmannMachines = "3"
+RestrictedBoltzmannMachinesHDF5 = "2"
+Statistics = "1"
+julia = "1.9.0-1"
