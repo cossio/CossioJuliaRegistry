@@ -1,0 +1,3 @@
+name = "BinaryLogisticRegression"
+uuid = "0cf600e5-c0f5-4f4c-a3cb-80a0fa474752"
+repo = "git@github.com:cossio/BinaryLogisticRegression.jl.git"
