@@ -23,4 +23,4 @@ jobs:
           arch: ${{ matrix.arch }}
       - uses: julia-actions/cache@v1
       - run: julia --color=yes --project=.ci/ -e 'import Pkg; Pkg.instantiate()'
-      - run: julia --color=yes --project=.ci/ -e 'import RegistryCI; RegistryCI.test()'
+      - run: julia --color=yes --project=.ci/ -e 'import RegistryCI; RegistryCI.test(; registry_deps=["https://github.com/JuliaRegistries/General"])'
