@@ -5,6 +5,7 @@ description = "My public Julia registry"
 
 [packages]
 0cf600e5-c0f5-4f4c-a3cb-80a0fa474752 = { name = "BinaryLogisticRegression", path = "B/BinaryLogisticRegression" }
+18c5b9ad-20a6-4587-bcd1-d3f661342d19 = { name = "RBM_Hidden_Unit_Importance", path = "R/RBM_Hidden_Unit_Importance" }
 1b3c2205-da69-4893-b2df-717075b12251 = { name = "LogStatFunctions", path = "L/LogStatFunctions" }
 2b3394db-9f9c-454f-a26a-0ad872321417 = { name = "LatticeProteins", path = "L/LatticeProteins" }
 4026178e-4dd9-40a6-aa83-a43e8a4150db = { name = "RBM_Spins_2_Data_Points_202307", path = "R/RBM_Spins_2_Data_Points_202307" }
