@@ -1,4 +1,4 @@
-[0-2]
+[0-3]
 DelimitedFiles = "1"
 LoggingExtras = "1"
 Optimisers = "0.2"
@@ -7,5 +7,5 @@ RestrictedBoltzmannMachinesHDF5 = "2"
 Statistics = "1"
 julia = "1.9.0-1"
 
-[2]
+[2-3]
 Preferences = "1"
