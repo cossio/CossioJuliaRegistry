@@ -11,6 +11,7 @@ description = "My public Julia registry"
 4026178e-4dd9-40a6-aa83-a43e8a4150db = { name = "RBM_Spins_2_Data_Points_202307", path = "R/RBM_Spins_2_Data_Points_202307" }
 5546b3cd-1bb0-4bb5-ad81-581800eb069d = { name = "RBM_Spins_2_Data_Points_RS_202307", path = "R/RBM_Spins_2_Data_Points_RS_202307" }
 57af301a-a58c-11e9-1f68-193042cecb35 = { name = "TruncatedNormal", path = "T/TruncatedNormal" }
+59c5aa83-900c-4c4d-b6cc-c9bbbf32a260 = { name = "HMMER", path = "H/HMMER" }
 896d28fb-f16f-41fb-b660-35006467145e = { name = "LowRankRBMs", path = "L/LowRankRBMs" }
 f4818a02-fb31-488d-84ee-227add8f92b8 = { name = "RBMsAnnealedImportanceSampling", path = "R/RBMsAnnealedImportanceSampling" }
 fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
