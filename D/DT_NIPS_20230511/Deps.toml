@@ -1,9 +1,13 @@
-[1]
+[1-2]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-["1.1-1"]
+["1.1-2"]
 LowRankRBMs = "896d28fb-f16f-41fb-b660-35006467145e"
+
+[2]
+ConditionalSwaps = "d4206499-9796-4f58-8a56-acae5424fe35"
+StackedRBMs = "61b0d15e-aa6e-446e-a483-edda46eb69d6"
