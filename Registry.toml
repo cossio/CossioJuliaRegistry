@@ -13,6 +13,7 @@ description = "My public Julia registry"
 57af301a-a58c-11e9-1f68-193042cecb35 = { name = "TruncatedNormal", path = "T/TruncatedNormal" }
 59c5aa83-900c-4c4d-b6cc-c9bbbf32a260 = { name = "HMMER", path = "H/HMMER" }
 896d28fb-f16f-41fb-b660-35006467145e = { name = "LowRankRBMs", path = "L/LowRankRBMs" }
+bd9b4ad5-e63c-47bb-8129-8772c89b08fb = { name = "CossioPkgTemplates", path = "C/CossioPkgTemplates" }
 d4206499-9796-4f58-8a56-acae5424fe35 = { name = "ConditionalSwaps", path = "C/ConditionalSwaps" }
 f4818a02-fb31-488d-84ee-227add8f92b8 = { name = "RBMsAnnealedImportanceSampling", path = "R/RBMsAnnealedImportanceSampling" }
 fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
