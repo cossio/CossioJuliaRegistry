@@ -1,3 +1,3 @@
 name = "ConditionalSwaps"
 uuid = "d4206499-9796-4f58-8a56-acae5424fe35"
-repo = "git@github.com:cossio/ConditionalSwaps.jl.git"
+repo = "https://github.com/cossio/ConditionalSwaps.jl.git"
