@@ -1,0 +1,3 @@
+name = "ParallelTemperingRBMs"
+uuid = "f6f8b1ef-ccdd-40fd-b661-a25ba26d3870"
+repo = "git@github.com:cossio/ParallelTemperingRBMs.jl.git"
