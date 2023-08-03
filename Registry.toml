@@ -21,6 +21,5 @@ d4206499-9796-4f58-8a56-acae5424fe35 = { name = "ConditionalSwaps", path = "C/Co
 d76020e8-6658-45fa-bb6d-0aaddbb4b5e5 = { name = "RestrictedBoltzmannMachinesHDF5", path = "R/RestrictedBoltzmannMachinesHDF5" }
 dc9b9f13-b6c1-41c2-bb2d-deda4a73e383 = { name = "DT_NIPS_20230511", path = "D/DT_NIPS_20230511" }
 f4818a02-fb31-488d-84ee-227add8f92b8 = { name = "RBMsAnnealedImportanceSampling", path = "R/RBMsAnnealedImportanceSampling" }
-f6f8b1ef-ccdd-40fd-b661-a25ba26d3870 = { name = "ParallelTemperingRBMsCho2010", path = "P/ParallelTemperingRBMsCho2010" }
 fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
 ff7337f9-42d2-4134-a6d5-1486ab687e52 = { name = "SpaceRBMs", path = "S/SpaceRBMs" }
