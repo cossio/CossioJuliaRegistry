@@ -11,3 +11,6 @@ LowRankRBMs = "896d28fb-f16f-41fb-b660-35006467145e"
 [2]
 ConditionalSwaps = "d4206499-9796-4f58-8a56-acae5424fe35"
 StackedRBMs = "61b0d15e-aa6e-446e-a483-edda46eb69d6"
+
+["2.1-2"]
+LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
