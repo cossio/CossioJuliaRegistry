@@ -1,0 +1,4 @@
+[3]
+ConditionalSwaps = "1"
+RestrictedBoltzmannMachines = "3"
+julia = "1.9.0-1"
