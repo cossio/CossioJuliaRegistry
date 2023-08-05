@@ -32,5 +32,6 @@ dc9b9f13-b6c1-41c2-bb2d-deda4a73e383 = { name = "DT_NIPS_20230511", path = "D/DT
 def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/CenteredRBMs" }
 f4818a02-fb31-488d-84ee-227add8f92b8 = { name = "RBMsAnnealedImportanceSampling", path = "R/RBMsAnnealedImportanceSampling" }
 f6f8b1ef-ccdd-40fd-b661-a25ba26d3870 = { name = "ParallelTemperingRBMsCho2010", path = "P/ParallelTemperingRBMsCho2010" }
+f9ac534b-7a4d-4050-9788-7568e13bfb5a = { name = "KakiTelegramBot", path = "K/KakiTelegramBot" }
 fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
 ff7337f9-42d2-4134-a6d5-1486ab687e52 = { name = "SpaceRBMs", path = "S/SpaceRBMs" }
