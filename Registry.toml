@@ -19,6 +19,7 @@ description = "My public Julia registry"
 59c5aa83-900c-4c4d-b6cc-c9bbbf32a260 = { name = "HMMER", path = "H/HMMER" }
 5e47bd60-7715-431b-887a-edff83ed7926 = { name = "FastPCD", path = "F/FastPCD" }
 61b0d15e-aa6e-446e-a483-edda46eb69d6 = { name = "StackedRBMs", path = "S/StackedRBMs" }
+753563aa-0f64-43bc-bd25-171000cdc6b1 = { name = "GithubQueries", path = "G/GithubQueries" }
 896d28fb-f16f-41fb-b660-35006467145e = { name = "LowRankRBMs", path = "L/LowRankRBMs" }
 8983b433-9f7e-480f-b58a-217368ada2eb = { name = "TeacherStudentLowRankRBM", path = "T/TeacherStudentLowRankRBM" }
 90902b46-5383-4c97-8f8a-bddf608a7bc6 = { name = "ROCCurves", path = "R/ROCCurves" }
