@@ -1,0 +1,3 @@
+name = "TwoDataPointsAnsatzSpinRBM"
+uuid = "5fe15cf2-0931-46e2-8153-23dc94d82379"
+repo = "git@github.com:cossio/TwoDataPointsAnsatzSpinRBM.jl.git"
