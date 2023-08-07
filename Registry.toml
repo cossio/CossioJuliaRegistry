@@ -28,6 +28,7 @@ description = "My public Julia registry"
 95861e33-42fb-4e14-ae5f-03a85d34826c = { name = "ContrastiveDivergenceRBM", path = "C/ContrastiveDivergenceRBM" }
 bcd408f2-95f5-489e-9934-d251842dc866 = { name = "PottsGumbelRBMLayers", path = "P/PottsGumbelRBMLayers" }
 bd9b4ad5-e63c-47bb-8129-8772c89b08fb = { name = "CossioPkgTemplates", path = "C/CossioPkgTemplates" }
+bda25098-0934-4bae-a887-3b2fb620d6b6 = { name = "KakiPkg", path = "K/KakiPkg" }
 cc4d5295-06e1-420e-aa8e-2bd5f6f39c3c = { name = "TensorFactorizations", path = "T/TensorFactorizations" }
 d4206499-9796-4f58-8a56-acae5424fe35 = { name = "ConditionalSwaps", path = "C/ConditionalSwaps" }
 d76020e8-6658-45fa-bb6d-0aaddbb4b5e5 = { name = "RestrictedBoltzmannMachinesHDF5", path = "R/RestrictedBoltzmannMachinesHDF5" }

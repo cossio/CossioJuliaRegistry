@@ -1,0 +1,3 @@
+name = "KakiPkg"
+uuid = "bda25098-0934-4bae-a887-3b2fb620d6b6"
+repo = "git@github.com:kakiorg/KakiPkg.jl.git"
