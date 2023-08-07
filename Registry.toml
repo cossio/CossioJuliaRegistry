@@ -21,6 +21,7 @@ description = "My public Julia registry"
 5fe15cf2-0931-46e2-8153-23dc94d82379 = { name = "TwoDataPointsAnsatzSpinRBM", path = "T/TwoDataPointsAnsatzSpinRBM" }
 61b0d15e-aa6e-446e-a483-edda46eb69d6 = { name = "StackedRBMs", path = "S/StackedRBMs" }
 753563aa-0f64-43bc-bd25-171000cdc6b1 = { name = "GithubQueries", path = "G/GithubQueries" }
+850d8bc9-49d3-40ec-92e0-8655eafbf481 = { name = "KakiPkg2", path = "K/KakiPkg2" }
 896d28fb-f16f-41fb-b660-35006467145e = { name = "LowRankRBMs", path = "L/LowRankRBMs" }
 8983b433-9f7e-480f-b58a-217368ada2eb = { name = "TeacherStudentLowRankRBM", path = "T/TeacherStudentLowRankRBM" }
 90902b46-5383-4c97-8f8a-bddf608a7bc6 = { name = "ROCCurves", path = "R/ROCCurves" }
