@@ -26,6 +26,7 @@ description = "My public Julia registry"
 850d8bc9-49d3-40ec-92e0-8655eafbf481 = { name = "KakiPkg2", path = "K/KakiPkg2" }
 896d28fb-f16f-41fb-b660-35006467145e = { name = "LowRankRBMs", path = "L/LowRankRBMs" }
 8983b433-9f7e-480f-b58a-217368ada2eb = { name = "TeacherStudentLowRankRBM", path = "T/TeacherStudentLowRankRBM" }
+8b707c2e-8f88-4d0c-96e7-f8e5439ca0fb = { name = "VecTails", path = "V/VecTails" }
 90902b46-5383-4c97-8f8a-bddf608a7bc6 = { name = "ROCCurves", path = "R/ROCCurves" }
 95861e33-42fb-4e14-ae5f-03a85d34826c = { name = "ContrastiveDivergenceRBM", path = "C/ContrastiveDivergenceRBM" }
 aa288701-83bc-4fd3-aba5-ac3dd7693cd5 = { name = "LowRankMatrices", path = "L/LowRankMatrices" }
