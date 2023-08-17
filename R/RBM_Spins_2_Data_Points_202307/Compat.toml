@@ -9,3 +9,6 @@ julia = "1.9.0-1"
 
 [2-5]
 Preferences = "1"
+
+["5.4.1-5"]
+DampedUpdates = "1"
