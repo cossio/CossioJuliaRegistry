@@ -1,0 +1,9 @@
+[1]
+ConditionalSwaps = "2"
+DampedUpdates = "1"
+EllipsisNotation = "1"
+RestrictedBoltzmannMachines = "3"
+SpringSeries = "1"
+Statistics = "1"
+VecTails = "1"
+julia = "1.9.0-1"
