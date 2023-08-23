@@ -12,3 +12,6 @@ Preferences = "1"
 
 ["5.4.1-5"]
 DampedUpdates = "1"
+
+["5.6-5"]
+LogExpFunctions = "0.3"
