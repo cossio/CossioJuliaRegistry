@@ -19,3 +19,6 @@ LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 
 ["5.7-5"]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+["5.9-5"]
+CudaRBMs = "4e7460e3-fd1b-4f88-90fa-49c1b80b3e77"
