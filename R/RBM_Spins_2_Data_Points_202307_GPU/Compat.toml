@@ -1,8 +1,13 @@
 [1]
 CudaRBMs = "1"
 Optimisers = "0.3"
-RBM_Spins_2_Data_Points_202307 = "5"
 RestrictedBoltzmannMachines = "3"
 RestrictedBoltzmannMachinesHDF5 = "2"
 Statistics = "1"
 julia = "1.9.0-1"
+
+["1.0.0"]
+RBM_Spins_2_Data_Points_202307 = "5"
+
+["1.0.1-1"]
+RBM_Spins_2_Data_Points_202307 = "5-6"
