@@ -31,3 +31,7 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 
 ["7.2-7"]
 CudaRBMs = "4e7460e3-fd1b-4f88-90fa-49c1b80b3e77"
+
+["7.3-7"]
+IrrationalConstants = "92d709cd-6900-40b7-9082-c6be49f344b6"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"

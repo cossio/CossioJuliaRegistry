@@ -29,3 +29,7 @@ Makie = "0.19"
 
 ["7.2-7"]
 CudaRBMs = "1"
+
+["7.3-7"]
+IrrationalConstants = "0.2"
+QuadGK = "2"
