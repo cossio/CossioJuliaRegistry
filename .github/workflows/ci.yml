@@ -10,17 +10,17 @@ jobs:
       fail-fast: false
       matrix:
         version:
-          - '1'
+          - '1.9'
         os:
           - ubuntu-latest
         arch:
           - x64
     steps:
-      - uses: actions/checkout@v3
-      - uses: julia-actions/setup-julia@v1
+      - uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744
+      - uses: julia-actions/setup-julia@f40c4b69330df1d22e7590c12e76dc2f9c66e0bc
         with:
           version: ${{ matrix.version }}
           arch: ${{ matrix.arch }}
-      - uses: julia-actions/cache@v1
+      - uses: julia-actions/cache@569d290d51d6c22c1cd4ceec591a1bf112aab9c0
       - run: julia --color=yes --project=.ci/ -e 'import Pkg; Pkg.instantiate()'
       - run: julia --color=yes --project=.ci/ -e 'import RegistryCI; RegistryCI.test(; registry_deps=["https://github.com/JuliaRegistries/General"])'
