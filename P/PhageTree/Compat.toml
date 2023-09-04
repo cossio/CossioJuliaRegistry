@@ -2,7 +2,6 @@
 AbstractTrees = "0.4"
 ChainRulesCore = "1"
 Distributions = "0.25"
-FastaIO = "1"
 Flux = "0.14"
 LogExpFunctions = "0.3"
 OneHot = "0.3"
@@ -12,3 +11,6 @@ Statistics = "1"
 StatsFuns = "1"
 ValueHistories = "0.5"
 julia = "1.6.0-1"
+
+["1.0.0"]
+FastaIO = "1"
