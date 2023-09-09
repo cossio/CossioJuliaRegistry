@@ -33,3 +33,7 @@ CudaRBMs = "1"
 ["7.3-7"]
 IrrationalConstants = "0.2"
 QuadGK = "2"
+
+["7.4-7"]
+FactoredMatrices = "2"
+NLsolve = "4"
