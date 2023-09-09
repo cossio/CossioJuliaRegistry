@@ -2,13 +2,15 @@
 EllipsisNotation = "1.6.0-1"
 FillArrays = "1"
 LogExpFunctions = "0.3"
-Optimisers = "0.2"
 RestrictedBoltzmannMachines = "3.1.0-3"
 Statistics = "1"
 julia = "1.9.0-1"
 
 ["1-2.1.0"]
 ConditionalSwaps = "1"
+
+["1-2.1.2"]
+Optimisers = "0.2"
 
 [2]
 RestrictedBoltzmannMachinesHDF5 = "2"
@@ -21,3 +23,6 @@ ConditionalSwaps = "1-2"
 
 ["2.1.2-2"]
 HDF5 = "0.16.15-0.17"
+
+["2.1.3-2"]
+Optimisers = "0.2-0.3"
