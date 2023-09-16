@@ -4,3 +4,6 @@ CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 CenteredRBMs = "def70c09-f69f-4396-afd1-e8507a6dddbf"
 RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
 StandardizedRestrictedBoltzmannMachines = "c8d9fdc7-1808-4fba-8c97-f848504396a5"
+
+["1.5.4-1"]
+cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
