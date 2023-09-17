@@ -1,31 +1,36 @@
-[1-7]
+[1-8]
 LogExpFunctions = "0.3"
 RestrictedBoltzmannMachines = "3.1.0-3"
 Statistics = "1"
 julia = "1.9.0-1"
 
-[2-7]
+[2-8]
 StackedRBMs = "2"
 
 ["3-3.4"]
 ConditionalSwaps = "1"
 
-[3-7]
+[3-8]
 DelimitedFiles = "1"
 Flux = "0.14"
 LowRankRBMs = "1"
 
-["3.0.1-7"]
+["3.0.1-8"]
 OffsetArrays = "1"
 
-["3.5-7"]
+["3.5-8"]
 ConditionalSwaps = "1-2"
 ImageFiltering = "0.7"
 
-["3.6-7"]
+["3.6-8"]
 NLsolve = "4"
 RBM_Spins_2_Data_Points_202307 = "7"
 
 [6-7]
-DampedUpdates = "1"
 Rank2AnsatzRBMs = "1.3.0-1"
+
+[6-8]
+DampedUpdates = "1"
+
+[8]
+Rank2AnsatzRBMs = "4"
