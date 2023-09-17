@@ -35,5 +35,8 @@ DampedUpdates = "1"
 ["8-8.0.2"]
 Rank2AnsatzRBMs = "4"
 
-["8.0.4-8"]
+["8.0.4"]
 Rank2AnsatzRBMs = "4.1.0-4"
+
+["8.0.6-8"]
+Rank2AnsatzRBMs = "5"
