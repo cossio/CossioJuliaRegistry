@@ -1,32 +1,32 @@
-[1-6]
+[1-7]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-["1.1-6"]
+["1.1-7"]
 LowRankRBMs = "896d28fb-f16f-41fb-b660-35006467145e"
 
-[2-6]
+[2-7]
 ConditionalSwaps = "d4206499-9796-4f58-8a56-acae5424fe35"
 StackedRBMs = "61b0d15e-aa6e-446e-a483-edda46eb69d6"
 
-["2.1-6"]
+["2.1-7"]
 LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
-[3-6]
+[3-7]
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 
-["3.0.1-6"]
+["3.0.1-7"]
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
 OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
 
-["3.6-6"]
+["3.6-7"]
 NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
 RBM_Spins_2_Data_Points_202307 = "4026178e-4dd9-40a6-aa83-a43e8a4150db"
 
-[6]
+[6-7]
 DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
 Rank2AnsatzRBMs = "e765fd00-6e60-4ef4-b5a1-61aabe4eb58a"
