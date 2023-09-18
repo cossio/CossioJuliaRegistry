@@ -1,0 +1,3 @@
+name = "PhageNegBinom"
+uuid = "d75ee8c3-a7b8-40a0-a13d-4e87fb3391ab"
+repo = "git@github.com:cossio/PhageNegBinom.jl.git"

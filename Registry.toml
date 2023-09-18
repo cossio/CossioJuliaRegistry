@@ -40,6 +40,7 @@ c1d5de99-3441-47e2-85af-8ce5ee9923a2 = { name = "DampedUpdates", path = "D/Dampe
 c8d9fdc7-1808-4fba-8c97-f848504396a5 = { name = "StandardizedRestrictedBoltzmannMachines", path = "S/StandardizedRestrictedBoltzmannMachines" }
 cc4d5295-06e1-420e-aa8e-2bd5f6f39c3c = { name = "TensorFactorizations", path = "T/TensorFactorizations" }
 d4206499-9796-4f58-8a56-acae5424fe35 = { name = "ConditionalSwaps", path = "C/ConditionalSwaps" }
+d75ee8c3-a7b8-40a0-a13d-4e87fb3391ab = { name = "PhageNegBinom", path = "P/PhageNegBinom" }
 d76020e8-6658-45fa-bb6d-0aaddbb4b5e5 = { name = "RestrictedBoltzmannMachinesHDF5", path = "R/RestrictedBoltzmannMachinesHDF5" }
 dc9b9f13-b6c1-41c2-bb2d-deda4a73e383 = { name = "DT_NIPS_20230511", path = "D/DT_NIPS_20230511" }
 def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/CenteredRBMs" }
