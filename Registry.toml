@@ -11,6 +11,7 @@ description = "My public Julia registry"
 18c5b9ad-20a6-4587-bcd1-d3f661342d19 = { name = "RBM_Hidden_Unit_Importance", path = "R/RBM_Hidden_Unit_Importance" }
 1b3c2205-da69-4893-b2df-717075b12251 = { name = "LogStatFunctions", path = "L/LogStatFunctions" }
 275cd14a-065f-44bb-ab7a-e1328a0f1819 = { name = "Pfam", path = "P/Pfam" }
+2b13551f-3605-4edc-95cf-7fb1224558b0 = { name = "SamApp", path = "S/SamApp" }
 2b3394db-9f9c-454f-a26a-0ad872321417 = { name = "LatticeProteins", path = "L/LatticeProteins" }
 4026178e-4dd9-40a6-aa83-a43e8a4150db = { name = "RBM_Spins_2_Data_Points_202307", path = "R/RBM_Spins_2_Data_Points_202307" }
 4aa08641-d763-4623-9c5b-cef742500064 = { name = "Infernal", path = "I/Infernal" }

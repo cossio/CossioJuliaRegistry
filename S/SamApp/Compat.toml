@@ -1,0 +1,13 @@
+[1]
+BioFetch = "0.2"
+BioSequences = "3"
+CodecZlib = "0.7"
+DCAUtils = "1"
+Downloads = "1"
+EllipsisNotation = "1"
+FASTX = "2"
+Logomaker = "1.0.1-1"
+Preferences = "1"
+RestrictedBoltzmannMachines = "1-3"
+XLSX = "0.8-0.9"
+julia = "1.8.0-1"
