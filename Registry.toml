@@ -16,6 +16,7 @@ description = "My public Julia registry"
 4026178e-4dd9-40a6-aa83-a43e8a4150db = { name = "RBM_Spins_2_Data_Points_202307", path = "R/RBM_Spins_2_Data_Points_202307" }
 460b0459-f81d-40f2-a460-3486927c7399 = { name = "OneHot", path = "O/OneHot" }
 4aa08641-d763-4623-9c5b-cef742500064 = { name = "Infernal", path = "I/Infernal" }
+4b4759f1-b06d-4e46-9a15-fec13d1dd0af = { name = "StackedTempering", path = "S/StackedTempering" }
 4e7460e3-fd1b-4f88-90fa-49c1b80b3e77 = { name = "CudaRBMs", path = "C/CudaRBMs" }
 4fd60db2-ef25-4635-ac1e-32b2ac4c6c94 = { name = "DucongeSELEXTestData", path = "D/DucongeSELEXTestData" }
 5155ca0f-65d6-4a7f-9007-f2236b8a1a58 = { name = "GapRBMs", path = "G/GapRBMs" }
