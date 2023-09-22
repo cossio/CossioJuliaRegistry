@@ -50,6 +50,7 @@ d76020e8-6658-45fa-bb6d-0aaddbb4b5e5 = { name = "RestrictedBoltzmannMachinesHDF5
 dc9b9f13-b6c1-41c2-bb2d-deda4a73e383 = { name = "DT_NIPS_20230511", path = "D/DT_NIPS_20230511" }
 def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/CenteredRBMs" }
 e765fd00-6e60-4ef4-b5a1-61aabe4eb58a = { name = "Rank2AnsatzRBMs", path = "R/Rank2AnsatzRBMs" }
+f2fe0091-2492-4230-8585-a9074f4fb3e3 = { name = "RBMsLocalMetropolis", path = "R/RBMsLocalMetropolis" }
 f4818a02-fb31-488d-84ee-227add8f92b8 = { name = "RBMsAnnealedImportanceSampling", path = "R/RBMsAnnealedImportanceSampling" }
 f6f8b1ef-ccdd-40fd-b661-a25ba26d3870 = { name = "ParallelTemperingRBMsCho2010", path = "P/ParallelTemperingRBMsCho2010" }
 f9ac534b-7a4d-4050-9788-7568e13bfb5a = { name = "KakiTelegramBot", path = "K/KakiTelegramBot" }
