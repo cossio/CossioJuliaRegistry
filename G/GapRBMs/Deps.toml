@@ -1,4 +1,4 @@
-[0]
+[0-1]
 BioSequences = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
 EllipsisNotation = "da5c29d0-fa7d-589e-88eb-ea29b0a81949"
 FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
@@ -6,3 +6,6 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
+
+[1]
+Tail2Front2 = "64a072fb-ee9f-4297-92fa-03899ca5ed3d"
