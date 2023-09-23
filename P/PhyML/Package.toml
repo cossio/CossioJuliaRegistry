@@ -1,0 +1,3 @@
+name = "PhyML"
+uuid = "f652b08b-70c7-4146-a29e-61b6e13bacd7"
+repo = "git@github.com:cossio/PhyML.jl.git"

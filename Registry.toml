@@ -56,6 +56,7 @@ def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/Center
 e765fd00-6e60-4ef4-b5a1-61aabe4eb58a = { name = "Rank2AnsatzRBMs", path = "R/Rank2AnsatzRBMs" }
 f2fe0091-2492-4230-8585-a9074f4fb3e3 = { name = "RBMsLocalMetropolis", path = "R/RBMsLocalMetropolis" }
 f4818a02-fb31-488d-84ee-227add8f92b8 = { name = "RBMsAnnealedImportanceSampling", path = "R/RBMsAnnealedImportanceSampling" }
+f652b08b-70c7-4146-a29e-61b6e13bacd7 = { name = "PhyML", path = "P/PhyML" }
 f6f8b1ef-ccdd-40fd-b661-a25ba26d3870 = { name = "ParallelTemperingRBMsCho2010", path = "P/ParallelTemperingRBMsCho2010" }
 f9ac534b-7a4d-4050-9788-7568e13bfb5a = { name = "KakiTelegramBot", path = "K/KakiTelegramBot" }
 fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
