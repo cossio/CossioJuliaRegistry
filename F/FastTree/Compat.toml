@@ -1,0 +1,4 @@
+[1]
+FASTX = "2"
+FastTree_jll = "2"
+julia = "1.8.0-1"
