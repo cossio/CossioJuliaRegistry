@@ -9,3 +9,6 @@ julia = "1.9.0-1"
 CenteredRBMs = "4"
 CodecZlib = "0.7"
 JLD2 = "0.4"
+
+["2.4-2"]
+StandardizedRestrictedBoltzmannMachines = "4"

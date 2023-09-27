@@ -10,3 +10,6 @@ Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 CenteredRBMs = "def70c09-f69f-4396-afd1-e8507a6dddbf"
 CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+
+["2.4-2"]
+StandardizedRestrictedBoltzmannMachines = "c8d9fdc7-1808-4fba-8c97-f848504396a5"
