@@ -12,3 +12,4 @@ git-tree-sha1 = "11437601418db7d43fba3eba96ca3a9a8ea5b94f"
 
 ["1.2.0"]
 git-tree-sha1 = "8df9fd017cd6d097f0b84a625e374957772c3536"
+yanked = true
