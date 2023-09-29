@@ -5,3 +5,7 @@ julia = "1.9.0-1"
 
 ["1.0.2-1"]
 CodecZlib = "0.7"
+
+["1.2.1-1"]
+BioSequences = "3"
+FASTX = "2"
