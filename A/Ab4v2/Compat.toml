@@ -3,3 +3,6 @@ BioSequences = "3"
 LogExpFunctions = "0.3"
 PhageTree = "1"
 julia = "1.9.0-1"
+
+["1.0.2-1"]
+AbstractTrees = "0.4"
