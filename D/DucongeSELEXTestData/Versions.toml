@@ -16,3 +16,6 @@ yanked = true
 
 ["1.2.1"]
 git-tree-sha1 = "51e3ca784beaa9ce3532cebdc94b866899c012de"
+
+["1.2.2"]
+git-tree-sha1 = "6c31981cd026d18312b24f96e276f85e1f6a65a0"
