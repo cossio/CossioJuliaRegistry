@@ -1,3 +1,3 @@
 name = "FASTXDoReaders"
 uuid = "a10097c8-9f5b-4030-a7d7-d11adc5c7381"
-repo = "git@github.com:kakiorg/FASTXDoReaders.jl.git"
+repo = "https://github.com/cossio/FASTXDoReaders.jl.git"
