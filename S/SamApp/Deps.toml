@@ -39,3 +39,6 @@ RBMsEffectiveContacts = "2f9af0fd-2043-4477-827d-59df7d24c0cf"
 
 ["1.7-1"]
 BioSequencesOneHot = "2814ae69-ac9a-473b-90f0-2183b26fd128"
+
+["1.8-1"]
+ElementarySymmetricPolynomials = "eedbd132-2e7d-4d7f-8b5e-3472db8bad43"
