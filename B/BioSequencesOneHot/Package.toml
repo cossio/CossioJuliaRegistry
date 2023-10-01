@@ -1,3 +1,3 @@
 name = "BioSequencesOneHot"
 uuid = "2814ae69-ac9a-473b-90f0-2183b26fd128"
-repo = "git@github.com:kakiorg/BioSequencesOneHot.jl.git"
+repo = "https://github.com/cossio/BioSequencesOneHot.jl.git"
