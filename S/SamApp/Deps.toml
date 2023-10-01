@@ -36,3 +36,6 @@ XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 
 ["1.6.1-1"]
 RBMsEffectiveContacts = "2f9af0fd-2043-4477-827d-59df7d24c0cf"
+
+["1.7-1"]
+BioSequencesOneHot = "2814ae69-ac9a-473b-90f0-2183b26fd128"
