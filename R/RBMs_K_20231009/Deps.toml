@@ -2,3 +2,8 @@
 DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+["1.0.1-1"]
+DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"

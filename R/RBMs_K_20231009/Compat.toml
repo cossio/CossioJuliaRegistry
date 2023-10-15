@@ -4,3 +4,7 @@ Statistics = "1"
 
 [0-1]
 julia = "1.9.0-1"
+
+["1.0.1-1"]
+DampedUpdates = "1"
+Statistics = "1"
