@@ -1,5 +1,6 @@
 ["0.0.1"]
 git-tree-sha1 = "1a23a97067f9a92d108605647d893a35d01aeece"
+yanked = true
 
 ["1.0.0"]
 git-tree-sha1 = "59a598d642270a13beb9fda4e61bf58a493d7c4a"
