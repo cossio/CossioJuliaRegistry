@@ -41,6 +41,10 @@ RBMsEffectiveContacts = "1"
 Rfam = "3"
 StringDistances = "0.11"
 
-[7-9]
+[7-8]
+CairoMakie = "0.10"
+Makie = "0.19"
+
+["9.0.0"]
 CairoMakie = "0.10"
 Makie = "0.19"

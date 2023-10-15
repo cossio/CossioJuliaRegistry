@@ -45,6 +45,10 @@ BioSequencesOneHot = "2814ae69-ac9a-473b-90f0-2183b26fd128"
 ["1.8-9"]
 ElementarySymmetricPolynomials = "eedbd132-2e7d-4d7f-8b5e-3472db8bad43"
 
-[7-9]
+[7-8]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
+["9.0.0"]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
