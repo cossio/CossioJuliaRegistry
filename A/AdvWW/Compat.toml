@@ -15,3 +15,6 @@ RestrictedBoltzmannMachines = "3"
 RestrictedBoltzmannMachinesHDF5 = "2"
 StringDistances = "0.11"
 julia = "1.9.0-1"
+
+["1.1-1"]
+XLSX = "0.10"

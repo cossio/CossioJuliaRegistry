@@ -14,3 +14,6 @@ PottsGumbelRBMLayers = "bcd408f2-95f5-489e-9934-d251842dc866"
 RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
 RestrictedBoltzmannMachinesHDF5 = "d76020e8-6658-45fa-bb6d-0aaddbb4b5e5"
 StringDistances = "88034a9c-02f8-509d-84a9-84ec65e18404"
+
+["1.1-1"]
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
