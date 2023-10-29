@@ -14,3 +14,6 @@ Random = "1"
 Statistics = "1"
 StatsAPI = "1"
 StatsBase = "0.34"
+
+["2.0.1-2"]
+HiddenMarkovModels = "0.2"
