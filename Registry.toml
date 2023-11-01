@@ -10,6 +10,7 @@ description = "My public Julia registry"
 10eba040-4fa0-471e-8958-333e2d4ab5c4 = { name = "DuplicateFiles", path = "D/DuplicateFiles" }
 12e6b396-7db5-4506-8cb6-664a4fe1e50e = { name = "RestrictedBoltzmannMachines", path = "R/RestrictedBoltzmannMachines" }
 18c5b9ad-20a6-4587-bcd1-d3f661342d19 = { name = "RBM_Hidden_Unit_Importance", path = "R/RBM_Hidden_Unit_Importance" }
+19b89899-3127-41f3-9f12-80db529951d5 = { name = "BlockRBMs", path = "B/BlockRBMs" }
 1b3c2205-da69-4893-b2df-717075b12251 = { name = "LogStatFunctions", path = "L/LogStatFunctions" }
 275cd14a-065f-44bb-ab7a-e1328a0f1819 = { name = "Pfam", path = "P/Pfam" }
 2814ae69-ac9a-473b-90f0-2183b26fd128 = { name = "BioSequencesOneHot", path = "B/BioSequencesOneHot" }
