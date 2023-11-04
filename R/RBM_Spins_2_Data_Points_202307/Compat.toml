@@ -1,7 +1,7 @@
 ["0-5.11"]
 Optimisers = "0.2"
 
-[0-8]
+[0-9]
 DelimitedFiles = "1"
 LoggingExtras = "1"
 RestrictedBoltzmannMachines = "3"
@@ -9,31 +9,34 @@ RestrictedBoltzmannMachinesHDF5 = "2"
 Statistics = "1"
 julia = "1.9.0-1"
 
-[2-8]
+[2-9]
 Preferences = "1"
 
-["5.12-8"]
+["5.12-9"]
 Optimisers = "0.2-0.3"
 
-["5.4.1-8"]
+["5.4.1-9"]
 DampedUpdates = "1"
 
-["5.6-8"]
+["5.6-9"]
 LogExpFunctions = "0.3"
 
 ["5.9-5"]
 CudaRBMs = "1"
 
-["6.3.3-8"]
+["6.3.3-9"]
 Makie = "0.19"
 
 ["7.2-7"]
 CudaRBMs = "1"
 
-["7.3-8"]
+["7.3-9"]
 IrrationalConstants = "0.2"
 QuadGK = "2"
 
-["7.4-8"]
+["7.4-9"]
 FactoredMatrices = "2"
 NLsolve = "4"
+
+[9]
+GaussianSinhCosh = "1"
