@@ -3,7 +3,17 @@ DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-["1.0.1-1"]
+["1.0.1-2"]
 DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[2]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GumbelTrick = "ec3f1a63-6c3e-4f00-909b-6a02b9e7293b"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
