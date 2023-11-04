@@ -47,6 +47,7 @@ description = "My public Julia registry"
 95861e33-42fb-4e14-ae5f-03a85d34826c = { name = "ContrastiveDivergenceRBM", path = "C/ContrastiveDivergenceRBM" }
 982e605e-fd7d-4c5d-a517-224ed2053a87 = { name = "ZebrafishHMM2023", path = "Z/ZebrafishHMM2023" }
 a10097c8-9f5b-4030-a7d7-d11adc5c7381 = { name = "FASTXDoReaders", path = "F/FASTXDoReaders" }
+a8ff5cc1-b4eb-4372-aeb2-8e274b603cc8 = { name = "LogBinomial", path = "L/LogBinomial" }
 aa288701-83bc-4fd3-aba5-ac3dd7693cd5 = { name = "FactoredMatrices", path = "F/FactoredMatrices" }
 ab373e77-9f79-45f8-97ab-fd137f9b486f = { name = "FastTree", path = "F/FastTree" }
 adc085a9-6b67-43ec-8d2e-d860834cc8d5 = { name = "SpinRBMs", path = "S/SpinRBMs" }
