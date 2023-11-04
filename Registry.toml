@@ -67,6 +67,7 @@ dc9b9f13-b6c1-41c2-bb2d-deda4a73e383 = { name = "DT_NIPS_20230511", path = "D/DT
 def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/CenteredRBMs" }
 df016029-629c-4086-9316-c1caa86717d0 = { name = "Ab4v2", path = "A/Ab4v2" }
 e765fd00-6e60-4ef4-b5a1-61aabe4eb58a = { name = "Rank2AnsatzRBMs", path = "R/Rank2AnsatzRBMs" }
+ec3f1a63-6c3e-4f00-909b-6a02b9e7293b = { name = "GumbelTrick", path = "G/GumbelTrick" }
 eedbd132-2e7d-4d7f-8b5e-3472db8bad43 = { name = "ElementarySymmetricPolynomials", path = "E/ElementarySymmetricPolynomials" }
 ef4fae33-fc79-49a8-89d3-d788f6f5c5d6 = { name = "ICLR20230923_StackedTempering", path = "I/ICLR20230923_StackedTempering" }
 f2fe0091-2492-4230-8585-a9074f4fb3e3 = { name = "RBMsLocalMetropolis", path = "R/RBMsLocalMetropolis" }
