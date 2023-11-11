@@ -1,5 +1,7 @@
 [1]
 CudaRBMs = "1"
+
+[1-2]
 EllipsisNotation = "1"
 RestrictedBoltzmannMachines = "3"
 RestrictedBoltzmannMachinesHDF5 = "2"
