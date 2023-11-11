@@ -35,6 +35,7 @@ description = "My public Julia registry"
 5fe15cf2-0931-46e2-8153-23dc94d82379 = { name = "TwoDataPointsAnsatzSpinRBM", path = "T/TwoDataPointsAnsatzSpinRBM" }
 61b0d15e-aa6e-446e-a483-edda46eb69d6 = { name = "StackedRBMs", path = "S/StackedRBMs" }
 64a072fb-ee9f-4297-92fa-03899ca5ed3d = { name = "Tail2Front2", path = "T/Tail2Front2" }
+6c386691-cfc4-46ad-8ebc-0b04e07c7d7e = { name = "SimpleConvRBMs", path = "S/SimpleConvRBMs" }
 723ee7ca-8220-4cb6-9f2e-031e2886e2e7 = { name = "IsingModels", path = "I/IsingModels" }
 753563aa-0f64-43bc-bd25-171000cdc6b1 = { name = "GithubQueries", path = "G/GithubQueries" }
 7673ebd9-f02d-46dd-b879-08aafde2f01b = { name = "LocalStore", path = "L/LocalStore" }
