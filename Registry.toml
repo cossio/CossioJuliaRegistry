@@ -21,6 +21,7 @@ description = "My public Julia registry"
 3e22dfff-eee4-477b-ac6a-6f7f49e5ccf0 = { name = "Logomaker", path = "L/Logomaker" }
 4026178e-4dd9-40a6-aa83-a43e8a4150db = { name = "RBM_Spins_2_Data_Points_202307", path = "R/RBM_Spins_2_Data_Points_202307" }
 460b0459-f81d-40f2-a460-3486927c7399 = { name = "OneHot", path = "O/OneHot" }
+471aab8e-00ab-4b25-950a-324b7977a398 = { name = "SimpleLinearRegression", path = "S/SimpleLinearRegression" }
 4aa08641-d763-4623-9c5b-cef742500064 = { name = "Infernal", path = "I/Infernal" }
 4b4759f1-b06d-4e46-9a15-fec13d1dd0af = { name = "StackedTempering", path = "S/StackedTempering" }
 4e7460e3-fd1b-4f88-90fa-49c1b80b3e77 = { name = "CudaRBMs", path = "C/CudaRBMs" }
