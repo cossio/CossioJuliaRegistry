@@ -17,3 +17,6 @@ Statistics = "1.9.0-1"
 
 ["1.2-2"]
 LogExpFunctions = "0.3"
+
+["2.0.2-2"]
+FillArrays = "1.8.0-1"
