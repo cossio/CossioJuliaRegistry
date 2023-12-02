@@ -1,4 +1,4 @@
-[0-9]
+[0-10]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
@@ -8,16 +8,16 @@ RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
 RestrictedBoltzmannMachinesHDF5 = "d76020e8-6658-45fa-bb6d-0aaddbb4b5e5"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-[2-9]
+[2-10]
 Preferences = "21216c6a-2e73-6563-6e65-726566657250"
 
-["5.4.1-9"]
+["5.4.1-10"]
 DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
 
-["5.6-9"]
+["5.6-10"]
 LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 
-["5.7-9"]
+["5.7-10"]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 ["5.9-5"]
@@ -32,13 +32,13 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 ["7.2-7"]
 CudaRBMs = "4e7460e3-fd1b-4f88-90fa-49c1b80b3e77"
 
-["7.3-9"]
+["7.3-10"]
 IrrationalConstants = "92d709cd-6900-40b7-9082-c6be49f344b6"
 QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
 
-["7.4-9"]
+["7.4-10"]
 FactoredMatrices = "aa288701-83bc-4fd3-aba5-ac3dd7693cd5"
 NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
 
-[9]
+[9-10]
 GaussianSinhCosh = "5d765a50-bc5e-4a6c-9695-cf9e14bd67e3"
