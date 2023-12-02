@@ -25,3 +25,6 @@ Statistics = "1.9.0-1"
 
 ["2.3-2"]
 LowRankRBMs = "2"
+
+["2.4-2"]
+FillArrays = "1.8.0-1"

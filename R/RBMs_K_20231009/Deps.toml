@@ -20,3 +20,6 @@ SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
 ["2.3-2"]
 LowRankRBMs = "896d28fb-f16f-41fb-b660-35006467145e"
+
+["2.4-2"]
+FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
