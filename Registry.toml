@@ -84,4 +84,5 @@ f877af3d-8d8e-4a62-8140-d28779695e4f = { name = "Celeba", path = "C/Celeba" }
 f9ac534b-7a4d-4050-9788-7568e13bfb5a = { name = "KakiTelegramBot", path = "K/KakiTelegramBot" }
 fc28dbd6-0008-41b8-97c8-e90c0437b90e = { name = "PhageTree", path = "P/PhageTree" }
 ff22355f-df7d-420f-b7ab-250fa0a7996a = { name = "Ab4App", path = "A/Ab4App" }
+ff6f32c6-25e8-4023-ad15-765665b8cc5b = { name = "SHAPE_MaP_LogNormal_Poisson_Indep", path = "S/SHAPE_MaP_LogNormal_Poisson_Indep" }
 ff7337f9-42d2-4134-a6d5-1486ab687e52 = { name = "SpaceRBMs", path = "S/SpaceRBMs" }
