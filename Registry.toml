@@ -59,6 +59,7 @@ ae06e78d-6dbf-4dd2-8442-f8685bffd6c3 = { name = "AdaptiveParallelTemperedRBMs", 
 bcd408f2-95f5-489e-9934-d251842dc866 = { name = "PottsGumbelRBMLayers", path = "P/PottsGumbelRBMLayers" }
 bd9b4ad5-e63c-47bb-8129-8772c89b08fb = { name = "CossioPkgTemplates", path = "C/CossioPkgTemplates" }
 bda25098-0934-4bae-a887-3b2fb620d6b6 = { name = "KakiPkg", path = "K/KakiPkg" }
+c02aafcb-3c77-412c-b3fd-defee07fbcfd = { name = "SHAPE_MaP_LogNormal", path = "S/SHAPE_MaP_LogNormal" }
 c1d5de99-3441-47e2-85af-8ce5ee9923a2 = { name = "DampedUpdates", path = "D/DampedUpdates" }
 c8d9fdc7-1808-4fba-8c97-f848504396a5 = { name = "StandardizedRestrictedBoltzmannMachines", path = "S/StandardizedRestrictedBoltzmannMachines" }
 cc4d5295-06e1-420e-aa8e-2bd5f6f39c3c = { name = "TensorFactorizations", path = "T/TensorFactorizations" }
