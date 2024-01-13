@@ -32,6 +32,9 @@ Random = "1"
 [12-13]
 ExpectationMaximization = "0.2.2-0.2"
 
+["13.0.1-13"]
+SHAPE_MaP_LogNormal_Poisson_Indep = "1"
+
 [3-13]
 BioSequencesOneHot = "2"
 CSV = "0.10"
