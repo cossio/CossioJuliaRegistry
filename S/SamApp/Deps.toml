@@ -1,4 +1,4 @@
-[1-13]
+[1-14]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 BioSequences = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
@@ -36,13 +36,13 @@ BioFetch = "f8217676-c24a-4825-a874-ba6ce2a4fe08"
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 ViennaRNA = "05a721ad-238d-4945-8c85-8b5c1fff3465"
 
-["1.6.1-13"]
+["1.6.1-14"]
 RBMsEffectiveContacts = "2f9af0fd-2043-4477-827d-59df7d24c0cf"
 
-["1.7-13"]
+["1.7-14"]
 BioSequencesOneHot = "2814ae69-ac9a-473b-90f0-2183b26fd128"
 
-["1.8-13"]
+["1.8-14"]
 ElementarySymmetricPolynomials = "eedbd132-2e7d-4d7f-8b5e-3472db8bad43"
 
 [12-13]
@@ -50,6 +50,9 @@ ExpectationMaximization = "e1fe09cc-5134-44c2-a941-50f4cd97986a"
 
 [13]
 SHAPE_MaP_LogNormal_Poisson_Indep = "ff6f32c6-25e8-4023-ad15-765665b8cc5b"
+
+[14]
+SHAPE_MaP_LogNormal = "c02aafcb-3c77-412c-b3fd-defee07fbcfd"
 
 [7-8]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
