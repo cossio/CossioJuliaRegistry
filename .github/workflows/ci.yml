@@ -17,10 +17,10 @@ jobs:
           - x64
     steps:
       - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
-      - uses: julia-actions/setup-julia@58ad1cdde70774ab0693de31c3cd4e751b46aea2
+      - uses: julia-actions/setup-julia@a1561e938c17e7aaf8236334d6d533e774c71dcd
         with:
           version: ${{ matrix.version }}
           arch: ${{ matrix.arch }}
-      - uses: julia-actions/cache@ff08d7d467c5eb35ffdaed173fc3a33426a328f7
+      - uses: julia-actions/cache@dc1a3cdeacb521b0ca93cfc66143fcadb15a5bd0
       - run: julia --color=yes --project=.ci/ -e 'import Pkg; Pkg.instantiate()'
       - run: julia --color=yes --project=.ci/ -e 'import RegistryCI; RegistryCI.test(; registry_deps=["https://github.com/JuliaRegistries/General"])'
