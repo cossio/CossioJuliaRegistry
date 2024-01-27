@@ -2,16 +2,16 @@
 DampedUpdates = "1"
 Statistics = "1"
 
-[0-5]
+[0-6]
 julia = "1.9.0-1"
 
 ["1.0.1-1"]
 Statistics = "1"
 
-["1.0.1-5"]
+["1.0.1-6"]
 DampedUpdates = "1"
 
-[2-5]
+[2-6]
 Dates = "1.9.0-1"
 GumbelTrick = "1"
 LinearAlgebra = "1.9.0-1"
@@ -23,12 +23,15 @@ RestrictedBoltzmannMachines = "3.2.0-3"
 SpecialFunctions = "2.3.0-2"
 Statistics = "1.9.0-1"
 
-["2.3-5"]
+["2.3-6"]
 LowRankRBMs = "2"
 
-["2.4-5"]
+["2.4-6"]
 FillArrays = "1.8.0-1"
 
-[5]
+[5-6]
 LogExpFunctions = "0.3"
 StaticArrays = "1.9.0-1"
+
+[6]
+Distributions = "0.25"
