@@ -14,6 +14,9 @@ DampedUpdates = "1"
 ["11.1-11"]
 Clustering = "0.15"
 
+["11.2-11"]
+LowRankRBMs = "2.1.0-2"
+
 [2-11]
 Dates = "1.9.0-1"
 GumbelTrick = "1"
@@ -26,7 +29,7 @@ RestrictedBoltzmannMachines = "3.2.0-3"
 SpecialFunctions = "2.3.0-2"
 Statistics = "1.9.0-1"
 
-["2.3-11"]
+["2.3-11.1"]
 LowRankRBMs = "2"
 
 ["2.4-11"]
