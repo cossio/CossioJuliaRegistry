@@ -11,6 +11,9 @@ Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 ["11.1-11"]
 Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
 
+["11.2.1-11"]
+ContrastiveDivergenceRBM = "95861e33-42fb-4e14-ae5f-03a85d34826c"
+
 [2-11]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 GumbelTrick = "ec3f1a63-6c3e-4f00-909b-6a02b9e7293b"
