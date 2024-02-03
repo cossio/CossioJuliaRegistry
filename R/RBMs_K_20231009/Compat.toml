@@ -14,11 +14,19 @@ DampedUpdates = "1"
 ["11.1-14"]
 Clustering = "0.15"
 
-["11.2-14"]
+["11.2-13"]
 LowRankRBMs = "2.1.0-2"
 
 ["11.2.1-14"]
 ContrastiveDivergenceRBM = "2.1.0-2"
+
+["14.0"]
+LowRankRBMs = "2.1.0-2"
+
+["14.1-14"]
+Convex = "0.15"
+LowRankRBMs = "2.2.0-2"
+SCS = "2"
 
 [2-14]
 Dates = "1.9.0-1"
