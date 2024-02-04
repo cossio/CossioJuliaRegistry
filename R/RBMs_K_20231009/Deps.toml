@@ -18,6 +18,10 @@ ContrastiveDivergenceRBM = "95861e33-42fb-4e14-ae5f-03a85d34826c"
 Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
 SCS = "c946c3f1-0d1f-5ce8-9dea-7daa1f7e2d13"
 
+["14.3-14"]
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+
 [2-14]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 GumbelTrick = "ec3f1a63-6c3e-4f00-909b-6a02b9e7293b"
