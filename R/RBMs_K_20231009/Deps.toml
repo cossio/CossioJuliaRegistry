@@ -3,26 +3,26 @@ DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-["1.0.1-14"]
+["1.0.1-15"]
 DampedUpdates = "c1d5de99-3441-47e2-85af-8ce5ee9923a2"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
-["11.1-14"]
+["11.1-15"]
 Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
 
-["11.2.1-14"]
+["11.2.1-15"]
 ContrastiveDivergenceRBM = "95861e33-42fb-4e14-ae5f-03a85d34826c"
 
-["14.1-14"]
+["14.1-15"]
 Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
 SCS = "c946c3f1-0d1f-5ce8-9dea-7daa1f7e2d13"
 
-["14.3-14"]
+["14.3-15"]
 HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
 JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
 
-[2-14]
+[2-15]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 GumbelTrick = "ec3f1a63-6c3e-4f00-909b-6a02b9e7293b"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
@@ -32,21 +32,21 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
-["2.3-14"]
+["2.3-15"]
 LowRankRBMs = "896d28fb-f16f-41fb-b660-35006467145e"
 
-["2.4-14"]
+["2.4-15"]
 FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
 
-[5-14]
+[5-15]
 LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
-[6-14]
+[6-15]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 
-[7-14]
+[7-15]
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
-[8-14]
+[8-15]
 FactoredMatrices = "aa288701-83bc-4fd3-aba5-ac3dd7693cd5"

@@ -2,37 +2,37 @@
 DampedUpdates = "1"
 Statistics = "1"
 
-[0-14]
+[0-15]
 julia = "1.9.0-1"
 
 ["1.0.1-1"]
 Statistics = "1"
 
-["1.0.1-14"]
+["1.0.1-15"]
 DampedUpdates = "1"
 
-["11.1-14"]
+["11.1-15"]
 Clustering = "0.15"
 
 ["11.2-13"]
 LowRankRBMs = "2.1.0-2"
 
-["11.2.1-14"]
+["11.2.1-15"]
 ContrastiveDivergenceRBM = "2.1.0-2"
 
 ["14.0"]
 LowRankRBMs = "2.1.0-2"
 
-["14.1-14"]
+["14.1-15"]
 Convex = "0.15"
 LowRankRBMs = "2.2.0-2"
 SCS = "2"
 
-["14.3-14"]
+["14.3-15"]
 HiGHS = "1.8.0-1"
 JuMP = "1.19.0-1"
 
-[2-14]
+[2-15]
 Dates = "1.9.0-1"
 GumbelTrick = "1"
 LinearAlgebra = "1.9.0-1"
@@ -47,18 +47,18 @@ Statistics = "1.9.0-1"
 ["2.3-11.1"]
 LowRankRBMs = "2"
 
-["2.4-14"]
+["2.4-15"]
 FillArrays = "1.8.0-1"
 
-[5-14]
+[5-15]
 LogExpFunctions = "0.3"
 StaticArrays = "1.9.0-1"
 
-[6-14]
+[6-15]
 Distributions = "0.25"
 
-[7-14]
+[7-15]
 StatsBase = "0.34"
 
-[8-14]
+[8-15]
 FactoredMatrices = "2.1.0-2"
