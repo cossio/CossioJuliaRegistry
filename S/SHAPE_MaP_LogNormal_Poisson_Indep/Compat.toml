@@ -1,16 +1,24 @@
 [1-6]
+StaticArrays = "1.9.0-1"
+
+[1-7]
 Distributions = "0.25"
 LogExpFunctions = "0.3"
-StaticArrays = "1.9.0-1"
 julia = "1.9.0-1"
 
 [2]
 DampedUpdates = "1"
 
-[2-6]
+[2-7]
 LinearAlgebra = "1.10.0-1"
 Optim = "1.7.0-1"
 Statistics = "1.10.0-1"
 
-[6]
+[6-7]
 Random = "1.10.0-1"
+
+[7]
+AdvancedHMC = "0.6"
+DampedUpdates = "1"
+Integrals = "4.3.0-4"
+LogDensityProblems = "2.1.0-2"
