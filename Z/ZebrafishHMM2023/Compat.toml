@@ -9,6 +9,9 @@ julia = "1.9.0-1"
 [10]
 LogExpFunctions = "0.3.27-0.3"
 
+["10.2-10"]
+NonlinearSolve = "3.6.0-3"
+
 ["2-2.0.1"]
 NegativeGammaDistributions = "1"
 StatsBase = "0.34"
