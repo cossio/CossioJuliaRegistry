@@ -12,6 +12,9 @@ LogExpFunctions = "0.3.27-0.3"
 ["10.2-10"]
 NonlinearSolve = "3.6.0-3"
 
+["10.3-10"]
+LogarithmicNumbers = "1.4.0-1"
+
 ["2-2.0.1"]
 NegativeGammaDistributions = "1"
 StatsBase = "0.34"
