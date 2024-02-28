@@ -32,6 +32,7 @@ description = "My public Julia registry"
 510d54db-c4c5-42e5-a23f-692f13fe7033 = { name = "Phylip", path = "P/Phylip" }
 5155ca0f-65d6-4a7f-9007-f2236b8a1a58 = { name = "GapRBMs", path = "G/GapRBMs" }
 57af301a-a58c-11e9-1f68-193042cecb35 = { name = "TruncatedNormal", path = "T/TruncatedNormal" }
+588a0096-e0a1-4de3-978b-1ea682c721a8 = { name = "MyAppConfigs", path = "M/MyAppConfigs" }
 59c5aa83-900c-4c4d-b6cc-c9bbbf32a260 = { name = "HMMER", path = "H/HMMER" }
 5d765a50-bc5e-4a6c-9695-cf9e14bd67e3 = { name = "GaussianSinhCosh", path = "G/GaussianSinhCosh" }
 5e47bd60-7715-431b-887a-edff83ed7926 = { name = "FastPCD", path = "F/FastPCD" }
