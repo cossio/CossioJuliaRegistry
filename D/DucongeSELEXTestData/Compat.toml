@@ -9,3 +9,6 @@ CodecZlib = "0.7"
 ["1.2.1-2"]
 BioSequences = "3"
 FASTX = "2"
+
+["2.3-2"]
+PCloudPublicLinks = "1.1.0-1"

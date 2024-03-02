@@ -8,3 +8,6 @@ CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
 ["1.2-2"]
 BioSequences = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
 FASTX = "c2308a5c-f048-11e8-3e8a-31650f418d12"
+
+["2.3-2"]
+PCloudPublicLinks = "0a44db02-9f29-404b-a163-745dc29c0aa6"
