@@ -1,0 +1,5 @@
+[1]
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+ProjectTomlFormatter = "04d9922e-d2ea-4396-8346-a9e63bc8ac15"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
