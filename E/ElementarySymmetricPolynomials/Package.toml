@@ -1,3 +1,3 @@
 name = "ElementarySymmetricPolynomials"
 uuid = "eedbd132-2e7d-4d7f-8b5e-3472db8bad43"
-repo = "git@github.com:kakiorg/ElementarySymmetricPolynomials.jl.git"
+repo = "https://github.com/kakiorg/ElementarySymmetricPolynomials.jl.git"
