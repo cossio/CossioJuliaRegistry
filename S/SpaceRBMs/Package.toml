@@ -1,3 +1,3 @@
 name = "SpaceRBMs"
 uuid = "ff7337f9-42d2-4134-a6d5-1486ab687e52"
-repo = "git@github.com:kakiorg/SpaceRBMs.jl.git"
+repo = "https://github.com/kakiorg/SpaceRBMs.jl.git"

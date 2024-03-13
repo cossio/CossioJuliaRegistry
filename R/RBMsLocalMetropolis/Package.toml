@@ -1,3 +1,3 @@
 name = "RBMsLocalMetropolis"
 uuid = "f2fe0091-2492-4230-8585-a9074f4fb3e3"
-repo = "git@github.com:kakiorg/RBMsLocalMetropolis.jl.git"
+repo = "https://github.com/kakiorg/RBMsLocalMetropolis.jl.git"

@@ -1,3 +1,3 @@
 name = "SHAPE_MaP_LogNormal_NegBinom_Indep"
 uuid = "bf079423-f436-4d7e-85be-dd05ede77fe7"
-repo = "git@github.com:kakiorg/SHAPE_MaP_LogNormal_NegBinom_Indep.jl.git"
+repo = "https://github.com/kakiorg/SHAPE_MaP_LogNormal_NegBinom_Indep.jl.git"

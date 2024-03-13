@@ -1,3 +1,3 @@
 name = "SamApp"
 uuid = "2b13551f-3605-4edc-95cf-7fb1224558b0"
-repo = "git@github.com:kakiorg/SamApp.jl.git"
+repo = "https://github.com/kakiorg/SamApp.jl.git"

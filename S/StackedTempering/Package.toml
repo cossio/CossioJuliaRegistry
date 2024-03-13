@@ -1,3 +1,3 @@
 name = "StackedTempering"
 uuid = "4b4759f1-b06d-4e46-9a15-fec13d1dd0af"
-repo = "git@github.com:kakiorg/StackedTempering.jl.git"
+repo = "https://github.com/kakiorg/StackedTempering.jl.git"

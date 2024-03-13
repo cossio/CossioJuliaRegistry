@@ -1,3 +1,3 @@
 name = "GithubQueries"
 uuid = "753563aa-0f64-43bc-bd25-171000cdc6b1"
-repo = "git@github.com:kakiorg/GithubQueries.jl.git"
+repo = "https://github.com/kakiorg/GithubQueries.jl.git"

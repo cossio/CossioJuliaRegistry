@@ -1,3 +1,3 @@
 name = "TMscore"
 uuid = "4f043ecb-e21b-455c-9fdf-d7072a819848"
-repo = "git@github.com:cossio/TMscore.jl.git"
+repo = "https://github.com/cossio/TMscore.jl.git"

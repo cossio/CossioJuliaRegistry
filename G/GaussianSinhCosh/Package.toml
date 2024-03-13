@@ -1,3 +1,3 @@
 name = "GaussianSinhCosh"
 uuid = "5d765a50-bc5e-4a6c-9695-cf9e14bd67e3"
-repo = "git@github.com:kakiorg/GaussianSinhCosh.jl.git"
+repo = "https://github.com/kakiorg/GaussianSinhCosh.jl.git"

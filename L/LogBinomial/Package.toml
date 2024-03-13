@@ -1,3 +1,3 @@
 name = "LogBinomial"
 uuid = "a8ff5cc1-b4eb-4372-aeb2-8e274b603cc8"
-repo = "git@github.com:kakiorg/LogBinomial.jl.git"
+repo = "https://github.com/kakiorg/LogBinomial.jl.git"
