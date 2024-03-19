@@ -4,6 +4,7 @@ repo = "https://github.com/cossio/CossioJuliaRegistry"
 description = "My public Julia registry"
 
 [packages]
+04583435-db98-4dac-86c0-bf703bfe1daf = { name = "NeuralHMMs2024", path = "N/NeuralHMMs2024" }
 04d9922e-d2ea-4396-8346-a9e63bc8ac15 = { name = "ProjectTomlFormatter", path = "P/ProjectTomlFormatter" }
 0601a985-4ee2-4e64-98ce-33fb04e53a0e = { name = "AdvWW", path = "A/AdvWW" }
 0a44db02-9f29-404b-a163-745dc29c0aa6 = { name = "PCloudPublicLinks", path = "P/PCloudPublicLinks" }
