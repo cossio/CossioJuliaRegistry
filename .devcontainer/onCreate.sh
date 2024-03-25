@@ -13,3 +13,6 @@ echo "compinit -i" >> ~/.zshrc
 
 # Install Julia packages, registries, ...
 /home/vscode/.juliaup/bin/julia .devcontainer/onCreate.jl
+
+# Add my registry
+ln -s /workspaces/CossioJuliaRegistry ~/.julia/registries/CossioJuliaRegistry
