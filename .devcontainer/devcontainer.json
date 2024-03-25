@@ -25,6 +25,4 @@
 	"mounts": [
 		"source=${localEnv:MY_DEVCONTAINERS_SECRETS_DIR},target=/home/vscode/secrets,type=bind,ro,consistency=cached"
 	]
-	// "workspaceMount": "source=${localWorkspaceFolder},target=/home/vscode/.julia/registries/CossioJuliaRegistry,type=bind",
-	// "workspaceFolder": "/home/vscode/.julia/registries/CossioJuliaRegistry"
 }

@@ -6,6 +6,5 @@ Pkg.Registry.add("General")
 # install some packages on global env
 Pkg.activate()
 Pkg.add([
-    #"MyRegistrator",
     "LocalRegistry",
 ])
