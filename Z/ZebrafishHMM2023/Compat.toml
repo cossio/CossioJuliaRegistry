@@ -6,16 +6,16 @@ HDF5 = "0.17"
 LazyArtifacts = "1"
 julia = "1.9.0-1"
 
-[10-12]
+[10-13]
 LogExpFunctions = "0.3.27-0.3"
 
 ["10.2-11"]
 NonlinearSolve = "3.6.0-3"
 
-["10.3-12"]
+["10.3-13"]
 LogarithmicNumbers = "1.4.0-1"
 
-["10.4.1-12"]
+["10.4.1-13"]
 LazyArtifacts = "1.10.0-1"
 LinearAlgebra = "1.10.0-1"
 Random = "1.10.0-1"
@@ -61,7 +61,7 @@ julia = "1.9.0-1"
 [5-11]
 Optim = "1.7.0-1"
 
-[5-12]
+[5-13]
 DensityInterface = "0.4"
 Distributions = "0.25"
 HDF5 = "0.17"
@@ -87,14 +87,14 @@ Statistics = "1.9.0-1"
 ["6.1-11"]
 Optimization = "3.19.0-3"
 
-["6.1-12"]
+["6.1-13"]
 DampedUpdates = "1"
 StatsAPI = "1.7.0-1"
 
-["6.5.1-12"]
+["6.5.1-13"]
 StaticArrays = "1.6.0-1"
 
-["7.1-12"]
+["7.1-13"]
 MAT = "0.10.6-0.10"
 
 ["7.5.1-11"]
