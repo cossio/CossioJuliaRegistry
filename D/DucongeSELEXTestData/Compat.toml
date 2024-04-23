@@ -17,3 +17,7 @@ PCloudPublicLinks = "1.1.0-1"
 
 ["2.3.2-2"]
 julia = "1.10.0-1"
+
+["2.4-2"]
+LazyArtifacts = "1.10.0-1"
+RestrictedBoltzmannMachines = "3.4.0-3"

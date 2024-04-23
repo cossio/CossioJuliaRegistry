@@ -11,3 +11,7 @@ FASTX = "c2308a5c-f048-11e8-3e8a-31650f418d12"
 
 ["2.3-2"]
 PCloudPublicLinks = "0a44db02-9f29-404b-a163-745dc29c0aa6"
+
+["2.4-2"]
+LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
+RestrictedBoltzmannMachines = "12e6b396-7db5-4506-8cb6-664a4fe1e50e"
