@@ -9,3 +9,7 @@ SciMLBase = "2.38.0-2"
 StaticArrays = "1.9.3-1"
 Statistics = "1.10.0-1"
 julia = "1.10.0-1"
+
+["1.2-1"]
+AdvancedHMC = "0.6.1-0.6"
+LogDensityProblems = "2.1.1-2"
