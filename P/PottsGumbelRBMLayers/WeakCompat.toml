@@ -1,2 +1,5 @@
 [2]
 CudaRBMs = "1"
+
+["2.1-2"]
+StandardizedRestrictedBoltzmannMachines = "4.1.1-4"
