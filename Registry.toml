@@ -47,7 +47,6 @@ description = "My public Julia registry"
 723ee7ca-8220-4cb6-9f2e-031e2886e2e7 = { name = "IsingModels", path = "I/IsingModels" }
 753563aa-0f64-43bc-bd25-171000cdc6b1 = { name = "GithubQueries", path = "G/GithubQueries" }
 7673ebd9-f02d-46dd-b879-08aafde2f01b = { name = "LocalStore", path = "L/LocalStore" }
-77448240-233f-471d-9874-cd3eeb30077f = { name = "MyPlutoHelper", path = "M/MyPlutoHelper" }
 850d8bc9-49d3-40ec-92e0-8655eafbf481 = { name = "KakiPkg2", path = "K/KakiPkg2" }
 86a1cd04-caa9-4a24-a00b-0f668856e5ae = { name = "UndersampledBMs2024", path = "U/UndersampledBMs2024" }
 88dc9d0e-45ea-4ad8-8ef4-d576c082fadd = { name = "SpringSeries", path = "S/SpringSeries" }
