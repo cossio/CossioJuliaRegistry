@@ -76,7 +76,6 @@ d015f569-cd2a-4d71-b962-240f6358815c = { name = "NegativeGammaDistributions", pa
 d213bb01-7728-4912-8b4c-05bc355976fe = { name = "SimpleDiffRBMs", path = "S/SimpleDiffRBMs" }
 d4206499-9796-4f58-8a56-acae5424fe35 = { name = "ConditionalSwaps", path = "C/ConditionalSwaps" }
 d7583257-2d3b-486d-b93f-702fcfec9f7b = { name = "MetropolisRules", path = "M/MetropolisRules" }
-d75ee8c3-a7b8-40a0-a13d-4e87fb3391ab = { name = "PhageNegBinom", path = "P/PhageNegBinom" }
 d76020e8-6658-45fa-bb6d-0aaddbb4b5e5 = { name = "RestrictedBoltzmannMachinesHDF5", path = "R/RestrictedBoltzmannMachinesHDF5" }
 dc9b9f13-b6c1-41c2-bb2d-deda4a73e383 = { name = "DT_NIPS_20230511", path = "D/DT_NIPS_20230511" }
 def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/CenteredRBMs" }
