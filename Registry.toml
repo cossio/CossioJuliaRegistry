@@ -17,7 +17,6 @@ description = "My public Julia registry"
 275cd14a-065f-44bb-ab7a-e1328a0f1819 = { name = "Pfam", path = "P/Pfam" }
 2814ae69-ac9a-473b-90f0-2183b26fd128 = { name = "BioSequencesOneHot", path = "B/BioSequencesOneHot" }
 2b3394db-9f9c-454f-a26a-0ad872321417 = { name = "LatticeProteins", path = "L/LatticeProteins" }
-2f9af0fd-2043-4477-827d-59df7d24c0cf = { name = "RBMsEffectiveContacts", path = "R/RBMsEffectiveContacts" }
 32bf53d6-29b3-4097-a256-fb928b83f926 = { name = "DiffRBMs", path = "D/DiffRBMs" }
 38c5b72b-a3f0-437e-9f79-f3da4655de63 = { name = "Rfam", path = "R/Rfam" }
 3e22dfff-eee4-477b-ac6a-6f7f49e5ccf0 = { name = "Logomaker", path = "L/Logomaker" }
