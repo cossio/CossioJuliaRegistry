@@ -51,7 +51,6 @@ description = "My public Julia registry"
 8983b433-9f7e-480f-b58a-217368ada2eb = { name = "TeacherStudentLowRankRBM", path = "T/TeacherStudentLowRankRBM" }
 8b707c2e-8f88-4d0c-96e7-f8e5439ca0fb = { name = "VecTails", path = "V/VecTails" }
 90902b46-5383-4c97-8f8a-bddf608a7bc6 = { name = "ROCCurves", path = "R/ROCCurves" }
-937310f5-01c8-40cc-bba5-d60347cf23b4 = { name = "GistArtifactsHelper", path = "G/GistArtifactsHelper" }
 95861e33-42fb-4e14-ae5f-03a85d34826c = { name = "ContrastiveDivergenceRBM", path = "C/ContrastiveDivergenceRBM" }
 982e605e-fd7d-4c5d-a517-224ed2053a87 = { name = "ZebrafishHMM2023", path = "Z/ZebrafishHMM2023" }
 a10097c8-9f5b-4030-a7d7-d11adc5c7381 = { name = "FASTXDoReaders", path = "F/FASTXDoReaders" }
