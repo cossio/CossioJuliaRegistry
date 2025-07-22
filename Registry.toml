@@ -65,7 +65,6 @@ c1d5de99-3441-47e2-85af-8ce5ee9923a2 = { name = "DampedUpdates", path = "D/Dampe
 c8d9fdc7-1808-4fba-8c97-f848504396a5 = { name = "StandardizedRestrictedBoltzmannMachines", path = "S/StandardizedRestrictedBoltzmannMachines" }
 cc4d5295-06e1-420e-aa8e-2bd5f6f39c3c = { name = "TensorFactorizations", path = "T/TensorFactorizations" }
 d015f569-cd2a-4d71-b962-240f6358815c = { name = "NegativeGammaDistributions", path = "N/NegativeGammaDistributions" }
-d213bb01-7728-4912-8b4c-05bc355976fe = { name = "SimpleDiffRBMs", path = "S/SimpleDiffRBMs" }
 d4206499-9796-4f58-8a56-acae5424fe35 = { name = "ConditionalSwaps", path = "C/ConditionalSwaps" }
 d7583257-2d3b-486d-b93f-702fcfec9f7b = { name = "MetropolisRules", path = "M/MetropolisRules" }
 d76020e8-6658-45fa-bb6d-0aaddbb4b5e5 = { name = "RestrictedBoltzmannMachinesHDF5", path = "R/RestrictedBoltzmannMachinesHDF5" }
