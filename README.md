@@ -8,9 +8,8 @@ To install this registry, run the following command in the Julia pkg REPL (once 
 pkg> registry add https://github.com/cossio/CossioJuliaRegistry.git
 ```
 
-This registry contains both public and private packages. Private repos use the `git@github.com:...` url format. See the [LocalRegistry.jl docs](https://github.com/GunnarFarneback/LocalRegistry.jl/blob/master/docs/ssh_keys.md) for more info. 
+This registry contains **only public packages**, and the dependencies between them. Every entry points at a public repo under [github.com/cossio](https://github.com/cossio) via an `https://` URL, so no SSH key or other credential is needed to install anything from it.
 
-* Some public repos may also use `git@github.com:...` URLs, and you need a SSh key associated to your GitHub account to install them through this registry.
-* For private repos, your SSH key needs to be added to the corresponding repo to gain access.
+Private packages are deliberately not registered here. They vendor their dependencies in-repo instead, so they resolve without needing a registry entry.
 
 This registry uses [`RegistryCI`](https://github.com/JuliaRegistries/RegistryCI.jl) for integrity checks after each commit using a GitHub Actions workflow.
