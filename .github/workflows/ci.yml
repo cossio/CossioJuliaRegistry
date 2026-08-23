@@ -16,11 +16,11 @@ jobs:
         arch:
           - x64
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
-      - uses: julia-actions/setup-julia@fa02766e078afaaf09b14210362cee14137e6a32
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: julia-actions/setup-julia@fa02766e078afaaf09b14210362cee14137e6a32 # v3.0.2
         with:
           version: ${{ matrix.version }}
           arch: ${{ matrix.arch }}
-      - uses: julia-actions/cache@b7788abd52452d5bc033d69796e110d9906af4ab
+      - uses: julia-actions/cache@b7788abd52452d5bc033d69796e110d9906af4ab # v3.2.0
       - run: julia --color=yes --project=.ci/ -e 'import Pkg; Pkg.instantiate()'
       - run: julia --color=yes --project=.ci/ -e 'import RegistryCI; RegistryCI.test(; registry_deps=["https://github.com/JuliaRegistries/General"])'
