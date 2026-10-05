@@ -1,0 +1,32 @@
+name: Dependabot auto-merge
+
+# Turns on GitHub's *native* auto-merge for Dependabot's grouped GitHub Actions
+# PRs. Native auto-merge does the merging itself once the required status
+# checks pass; nothing in Dependabot can switch it on, so this workflow is only
+# here to press that button. See:
+# https://github.com/dependabot/dependabot-core/issues/4143
+#
+# All update types are included, semver-major among them: every PR is gated by
+# the required CI check (RegistryCI in ci.yml), so a bump that breaks CI is
+# never merged.
+#
+# Deliberately uses no actions at all -- nothing to pin, nothing to update, and
+# no third party in the merge path.
+on: pull_request
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    name: Auto-merge Dependabot updates
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    steps:
+      # Note: deliberately does not check out the PR's code.
+      - name: Enable auto-merge
+        run: gh pr merge --auto --squash "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
