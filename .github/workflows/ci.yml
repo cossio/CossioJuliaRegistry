@@ -21,6 +21,6 @@ jobs:
         with:
           version: ${{ matrix.version }}
           arch: ${{ matrix.arch }}
-      - uses: julia-actions/cache@e32267b41e0fa7df82a3d53e8c7273620d52c586 # v3.4.0
+      - uses: julia-actions/cache@9353db09a0f2bbbdec6f41791918c75d37391b36 # v3.5.0
       - run: julia --color=yes --project=.ci/ -e 'import Pkg; Pkg.instantiate()'
       - run: julia --color=yes --project=.ci/ -e 'import RegistryCI; RegistryCI.test(; registry_deps=["https://github.com/JuliaRegistries/General"])'
